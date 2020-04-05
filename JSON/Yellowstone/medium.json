@@ -1,0 +1,23 @@
+{
+  "addresses": [
+    {
+      "line1": "2 Officers Row",
+      "line2": "Yellowstone National Park Headquarters",
+      "line3": "",
+      "city": "Yellowstone National Park",
+      "stateCode": "WY",
+      "postalCode": "82190",
+      "type": "Physical"
+    },
+    {
+      "line1": "P.O. Box 168",
+      "line2": "",
+      "line3": "",
+      "city": "Yellowstone National Park",
+      "stateCode": "WY",
+      "postalCode": "82190-0168",
+      "type": "Mailing",
+      "phone": "307-344-7381"
+    }
+  ]
+}
