@@ -20,7 +20,8 @@
             "city": "Yellowstone National Park",
             "stateCode": "WY",
             "postalCode": "82190-0168",
-            "type": "Mailing"
+            "type": "Mailing",
+            "phone": "307-344-7381"
           }
         ],
         "contacts": [
